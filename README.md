@@ -5,6 +5,15 @@
 This project is a basic shell. Really basic.
 You can make simple command with arguments.
 
+But there are still builtins by hand.
+  - env
+  - setenv
+  - unsetenv
+  - envreset
+  - cd
+  - history
+  - exit
+
 Works with Gnu/Linux Debian && Mac OSX
 
 ### BONUS
