@@ -5,6 +5,8 @@
 This project is a basic shell. Really basic.
 You can make simple command with arguments.
 
+Works with Gnu/Linux Debian && Mac OSX
+
 ### BONUS
 
 1)	Options -L and -P of CD builtin.
@@ -29,3 +31,5 @@ You can make simple command with arguments.
 13)	Exit with value and error management.
 
 14)	No Leaks.
+
+### Grade: 109/100
